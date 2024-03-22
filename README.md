@@ -121,7 +121,7 @@ Using the same syntax to make logical statements for binary rules, we can make
 continous functions that give each cell a value between 0 and 1.  White is still
 0 and black is still 1, but in between is a grayscale, that gives the appearance
 of continous functions.
-<<<<<<< HEAD
+
 <p align="center">
   <img align="center" src="https://github.com/Nick-Kurt-Butler/cellularAutomata/blob/master/media/continuousCellAuto.png" />
 </p>
